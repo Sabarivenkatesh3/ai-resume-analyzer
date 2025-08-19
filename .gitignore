@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Streamlit
+.streamlit/
+
+# Environment / secrets
+.env
+*.json
+
+# VSCode / PyCharm
+.vscode/
+.idea/
